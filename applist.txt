@@ -1,0 +1,30 @@
+# Packages to Remove
+Clipchamp.Clipchamp
+Microsoft.BingNews
+Microsoft.BingWeather
+Microsoft.549981C3F5F10                     # Cortana
+Microsoft.GetHelp
+Microsoft.MicrosoftSolitaireCollection
+Microsoft.MicrosoftStickyNotes
+Microsoft.Paint
+Microsoft.People                            # Required for & included with Mail & Calendar
+Microsoft.Todos
+Microsoft.WindowsCamera
+microsoft.windowscommunicationsapps         # Mail & Calendar
+Microsoft.WindowsFeedbackHub
+Microsoft.WindowsMaps
+Microsoft.WindowsSoundRecorder
+Microsoft.YourPhone
+Microsoft.ZuneMusic
+Microsoft.ZuneVideo
+MicrosoftCorporationII.QuickAssist
+
+# Potential Removal
+#Microsoft.GamingApp                        # Modern Xbox Gaming App, required for installing some PC games
+#Microsoft.MicrosoftOfficeHub
+#Microsoft.MSPaint                          # Paint 3D
+#Microsoft.OutlookForWindows                # New mail app: Outlook for Windows
+#Microsoft.PowerAutomateDesktop
+#Microsoft.ScreenSketch                     # Snipping Tool
+#Microsoft.WindowsAlarms
+#Microsoft.WindowsCamera
