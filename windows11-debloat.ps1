@@ -40,3 +40,7 @@ function Remove-Apps {
         Get-AppxProvisionedPackage -Online | Where-Object { $_PackageName -like $app } | Foreach { Remove-AppxProvisionedPackage -Online -AllUsers -PackageName $_PackageName }
     }
 }
+
+$appList = Get-AppList -Path "$PSScriptRoot/applist.txt"
+
+Remove-Apps $appList
